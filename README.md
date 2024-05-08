@@ -116,7 +116,7 @@ Congrats you setup authentication!
 ## Cheat Sheet
 ```bash
 # Clone a new project
-git clone git@github.com:LizardBrainDev/git_cheatsheet.git
+git clone git@github.com:ocelik111/git_cheatsheet.git
 
 # Create a branch and switch to it
 git checkout -b branch/name
@@ -173,7 +173,7 @@ git commit -c ORIG_HEAD                         # Step 4
 2. Clone the example git repository into a projects or documents folder
 
     ```bash
-    git clone git@github.com:LizardBrainDev/git_cheatsheet.git
+    git clone git@github.com:ocelik111/git_cheatsheet.git
     ```
 
     **NOTE**: If you are getting permission denied errors, see the Authentication section above. 
@@ -183,7 +183,7 @@ git commit -c ORIG_HEAD                         # Step 4
     Clone this repository with the command 
     
     ```bash
-    git clone git@github.com:LizardBrainDev/git_cheatsheet.git
+    git clone git@github.com:ocelik111/git_cheatsheet.git
     ```
 
     ![image info](./pictures/tut2.png)
@@ -265,7 +265,7 @@ git commit -c ORIG_HEAD                         # Step 4
 
 11. Create a **pull request** to merge new code into the `main` branch.
 
-    Go to this repository, https://github.com/LizardBrainDev/git_cheatsheet, and click on "Pull Requests"
+    Go to this repository, https://github.com/ocelik111/git_cheatsheet, and click on "Pull Requests"
 
     Next press the "new pull request" button
 
